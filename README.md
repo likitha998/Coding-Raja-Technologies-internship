@@ -6,7 +6,7 @@ During my internship, I led two Python-based projects: "Sentiment Analysis on So
 
 
 
-*1. Task 1:* [Task 1] ()
+*1. Task 1:* [Task 1] (https://github.com/likitha998/Coding-Raja-Technologies-internship/blob/main/Task-1__socialmedia.ipynb)
 
 Description: Build a sentiment analysis model to classify social media posts as positive, negative, or neutral.
 
@@ -42,7 +42,7 @@ Machine Learning frameworks
 
 
 
-*2. Task 2:* [Task 2] ()
+*2. Task 2:* [Task 2] (https://github.com/likitha998/Coding-Raja-Technologies-internship/blob/main/TASK-2__Food%20Recognition.ipynb)
 
 
 Description: Develop an image classification model to recognize different types of food items from images.
